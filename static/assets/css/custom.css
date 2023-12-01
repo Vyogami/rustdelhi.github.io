@@ -11958,7 +11958,7 @@ a:hover {
   width: 208px;
   height: 208px;
   overflow: hidden;
-  border: var(--bs-border-width) var(--bs-border-style) rgba(255, 255, 255, 0) !important;
+  border: 2.5px var(--bs-border-style) rgba(255, 255, 255, 0) !important;
   transition: border 0s;
 }
 .index-avatar img:hover {
@@ -11968,7 +11968,7 @@ a:hover {
 
 .index-avatar:hover,
 .sidebar-avatar:hover {
-  border: var(--bs-border-width) var(--bs-border-style) white !important;
+  border: 2.5px var(--bs-border-style) white !important;
   transition: border 0.5s;
 }
 

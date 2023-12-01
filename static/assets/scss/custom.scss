@@ -165,7 +165,7 @@ a:hover {
     width: 208px;
     height: 208px;
     overflow: hidden;
-    border: var(--bs-border-width) var(--bs-border-style) rgba($light, 0) !important;
+    border: 2.5px var(--bs-border-style) rgba($light, 0) !important;
     transition: border 0s;
 
     img:hover {
@@ -176,7 +176,7 @@ a:hover {
 
 .index-avatar:hover,
 .sidebar-avatar:hover {
-    border: var(--bs-border-width) var(--bs-border-style) $light !important;
+    border: 2.5px var(--bs-border-style) $light !important;
     transition: border .5s;
 }
 
